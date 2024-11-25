@@ -3,6 +3,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
+Dataset menggunakan [Daftar Harga Rumah Jabodetabek](https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek)
+
 Proyek ini menggunakan algoritma **RandomForestRegressor** untuk memprediksi harga rumah di Kota Bandung berdasarkan berbagai fitur rumah seperti jumlah kamar tidur, jumlah kamar mandi, ukuran tanah, dan lainnya.
 
 ## Deskripsi Proyek
